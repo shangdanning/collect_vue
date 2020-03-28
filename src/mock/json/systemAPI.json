@@ -1,0 +1,38 @@
+{
+    "getDicMock": {
+        "code": 200,
+        "message": "ok",
+        "data": [
+            {
+                "dictCode": "factoryCode",
+                "list": [
+                    {
+                        "id": 1,
+                        "dictDataValue": "1",
+                        "dictDataName": "守望领域"
+                    },
+                    {
+                        "id": 2,
+                        "dictDataValue": "2",
+                        "dictDataName": "多度"
+                    }
+                ]
+            },
+            {
+                "dictCode": "dataType",
+                "list": [
+                    {
+                        "id": 1,
+                        "dictDataValue": "village",
+                        "dictDataName": "小区"
+                    },
+                    {
+                        "id": 2,
+                        "dictDataValue": "building",
+                        "dictDataName": "楼栋"
+                    }
+                ]
+            }
+        ]
+    }
+}

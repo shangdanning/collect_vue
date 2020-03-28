@@ -1,0 +1,51 @@
+{
+    "getMappingListMock": {
+        "code": 200,
+        "message": "ok",
+        "data": [
+            {
+                "beanValue": "villageCode",
+                "externalValue": "code",
+                "beanName": "小区编码",
+                "notNull": 1
+            },
+            {
+                "beanValue": "villageName",
+                "externalValue": "name",
+                "beanName": "小区名称",
+                "notNull": 0
+            },
+            {
+                "beanValue": "villageCode1",
+                "externalValue": "code1",
+                "beanName": "小区编码1",
+                "notNull": 1
+            },
+            {
+                "beanValue": "villageName1",
+                "externalValue": "name1",
+                "beanName": "小区名称1",
+                "notNull": 0
+            },
+            {
+                "beanValue": "villageCode2",
+                "externalValue": "code2",
+                "beanName": "小区编码2",
+                "notNull": 1
+            },
+            {
+                "beanValue": "villageName2",
+                "externalValue": "name3",
+                "beanName": "小区名称3",
+                "notNull": 1
+            }
+        ]
+    },
+    "saveMappingListMock": {
+        "resultCode": 200,
+        "resultMessage": "OK",
+        "data": {
+            "status": "success"
+        }
+    }
+}
